@@ -21,6 +21,8 @@ System.out.println("haloo world");
 ### 喜欢的游戏是
 
 * dota2
+
 ![dota2](dota.png)
 * 恶魔城
+
 ![Castlevania](Castlevania.png)
